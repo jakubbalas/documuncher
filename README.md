@@ -13,9 +13,9 @@ Provide a service that composes documentation from registered repos, compiles it
 Get VS Code and we will try to "group-program" together with features it provides. Some bits can be done in the free time outside of the meeting. 
 
 ## Next steps
-> Decide on how to do discovery or readme files -> Register project in the tool (git url? webhook?)
-> Is there Rust n Git service / library / cargo existing ? How to use Git programmatically in Rust ?
-> Infra: docker-composing > docker file with services we want to use (Redis for caching) 
+- Decide on how to do discovery or readme files -> Register project in the tool (git url? webhook?)
+- Is there Rust n Git service / library / cargo existing ? How to use Git programmatically in Rust ?
+- Infra: docker-composing > docker file with services we want to use (Redis for caching) 
 
 
 ## Misc Notes
